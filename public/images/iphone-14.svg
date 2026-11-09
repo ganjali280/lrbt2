@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="iPhone 14, фиолетовый">
+  <rect width="400" height="400" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="p14Body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8d4ee"/>
+      <stop offset="0.5" stop-color="#c3bde4"/>
+      <stop offset="1" stop-color="#a9a2d4"/>
+    </linearGradient>
+    <linearGradient id="p14Screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6f74d8"/>
+      <stop offset="0.5" stop-color="#9c9ae8"/>
+      <stop offset="1" stop-color="#d3d0f5"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="34" y="44" width="146" height="312" rx="32" fill="url(#p14Body)" stroke="#9e97c9" stroke-width="1.5"/>
+  <rect x="50" y="60" width="74" height="74" rx="20" fill="#c7c1e6"/>
+  <circle cx="74" cy="84" r="14" fill="#1d1e21"/>
+  <circle cx="74" cy="84" r="8" fill="#3d3f47"/>
+  <circle cx="100" cy="84" r="14" fill="#1d1e21"/>
+  <circle cx="100" cy="84" r="8" fill="#3d3f47"/>
+  <circle cx="100" cy="110" r="6" fill="#f0e4c8"/>
+  <path d="M103 208c1-7 6-11 12-12-1 7-5 11-12 12z" fill="#a49dcd"/>
+  <ellipse cx="103" cy="230" rx="17" ry="20" fill="#a49dcd"/>
+
+  <rect x="200" y="44" width="146" height="312" rx="32" fill="#1a1b1e"/>
+  <rect x="208" y="52" width="130" height="296" rx="26" fill="url(#p14Screen)"/>
+  <ellipse cx="273" cy="200" rx="56" ry="88" fill="#7f83dd" opacity="0.7"/>
+  <rect x="250" y="52" width="46" height="16" rx="4" fill="#0a0a0c"/>
+</svg>
